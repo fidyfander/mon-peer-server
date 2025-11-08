@@ -1,0 +1,13 @@
+{
+  "name": "mon-peer-server",
+  "version": "1.0.0",
+  "description": "Mon serveur PeerJS personnel",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "peer": "^1.0.2"
+  }
+}
+
